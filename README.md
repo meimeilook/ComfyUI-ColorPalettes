@@ -9,11 +9,11 @@ Base on Material Design Colors,FlatUI colors, I made it fit with nodes,create so
 ![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/preview.jpg)
 
 ## Download:
-ComfyUI-ColorPalettes.json
+[ComfyUI-ColorPalettes.json](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes.json)
 
 OR
 
-ComfyUI-ColorPalettes.png
+[ComfyUI-ColorPalettes.png](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes.png)
 
 
 Feel Free.
