@@ -18,12 +18,16 @@ Base on Material Design Colors,FlatUI colors, I made it fit with nodes,create so
 
 [ComfyUI-ColorPalettes.json](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes.json)
 
+[ComfyUI-ColorPalettes-Mini.json](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes-Mini.json)
+
 OR
 
 [ComfyUI-ColorPalettes.png](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes.png)
 
+[ComfyUI-ColorPalettes-Mini.png](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes-Mini.png)
 
-Feel Free.
+
+Choose 1 of 4, Feel Free.
 
 ## How to use:
 Download ComfyUI-ColorPalettes.json or ComfyUI-ColorPalettes.png
