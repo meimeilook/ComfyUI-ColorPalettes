@@ -6,9 +6,16 @@ This is not a ComfyUI extension, just pretty color which I like and I want to sh
 ## Info Colors:
 Base on Material Design Colors,FlatUI colors, I made it fit with nodes,create some Low Saturation colors.
 
+### Colors
+![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/colors.jpg)
+
+### Example
 ![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/preview.jpg)
 
 ## Download:
+
+#### New Add: ComfyUI-ColorPalettes Mini (Saving Screen Space)
+
 [ComfyUI-ColorPalettes.json](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/ComfyUI-ColorPalettes.json)
 
 OR

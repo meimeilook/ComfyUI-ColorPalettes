@@ -1,0 +1,1004 @@
+{
+  "last_node_id": 70,
+  "last_link_id": 0,
+  "nodes": [
+    {
+      "id": 10,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        220.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#27652c",
+      "bgcolor": "#135118"
+    },
+    {
+      "id": 17,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        460.6629152070407
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#453a38",
+      "bgcolor": "#312624"
+    },
+    {
+      "id": 19,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        460.6629152070407
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#3a464c",
+      "bgcolor": "#263238"
+    },
+    {
+      "id": 22,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        580.6629152070412
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#72547d",
+      "bgcolor": "#5e4069"
+    },
+    {
+      "id": 25,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        580.6629152070412
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#e5484c",
+      "bgcolor": "#d13438"
+    },
+    {
+      "id": 28,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        700.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#605e5c",
+      "bgcolor": "#4c4a48"
+    },
+    {
+      "id": 29,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        700.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#5f7698",
+      "bgcolor": "#4b6284"
+    },
+    {
+      "id": 30,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        700.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#1d9254",
+      "bgcolor": "#097e40"
+    },
+    {
+      "id": 2,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        100.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#9c2263",
+      "bgcolor": "#880e4f"
+    },
+    {
+      "id": 6,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        220.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#215bb5",
+      "bgcolor": "#0d47a1"
+    },
+    {
+      "id": 13,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        340.66291520704095
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#d87a26",
+      "bgcolor": "#c46612"
+    },
+    {
+      "id": 14,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        340.66291520704095
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#a98016",
+      "bgcolor": "#956c02"
+    },
+    {
+      "id": 21,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        580.6629152070412
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#e03da2",
+      "bgcolor": "#cc298e"
+    },
+    {
+      "id": 67,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        820.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#965959",
+      "bgcolor": "#824545"
+    },
+    {
+      "id": 70,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        820.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#777f3d",
+      "bgcolor": "#636b29"
+    },
+    {
+      "id": 66,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        820.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#967559",
+      "bgcolor": "#826145"
+    },
+    {
+      "id": 18,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        460.6629152070407
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#353535",
+      "bgcolor": "#212121"
+    },
+    {
+      "id": 7,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        220.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#28465d",
+      "bgcolor": "#143249"
+    },
+    {
+      "id": 24,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        580.6629152070412
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 18,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#988959",
+      "bgcolor": "#847545"
+    },
+    {
+      "id": 23,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        580.6629152070412
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#738973",
+      "bgcolor": "#5f755f"
+    },
+    {
+      "id": 8,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        220.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#147478",
+      "bgcolor": "#006064"
+    },
+    {
+      "id": 26,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        700.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 21,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#3185c7",
+      "bgcolor": "#1d71b3"
+    },
+    {
+      "id": 1,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        100.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#cb3030",
+      "bgcolor": "#b71c1c"
+    },
+    {
+      "id": 68,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        820.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#9a7a9e",
+      "bgcolor": "#86668a"
+    },
+    {
+      "id": 15,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        340.66291520704095
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#e9681f",
+      "bgcolor": "#d5540b"
+    },
+    {
+      "id": 9,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        220.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 25,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#146154",
+      "bgcolor": "#004d40"
+    },
+    {
+      "id": 5,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        100.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 26,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#2e3792",
+      "bgcolor": "#1a237e"
+    },
+    {
+      "id": 69,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        820.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 27,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#5187a8",
+      "bgcolor": "#3d7394"
+    },
+    {
+      "id": 4,
+      "type": "PrimitiveNode",
+      "pos": [
+        -682.873072597033,
+        100.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#452fa6",
+      "bgcolor": "#311b92"
+    },
+    {
+      "id": 3,
+      "type": "PrimitiveNode",
+      "pos": [
+        -902.8730725970329,
+        100.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#5e28a0",
+      "bgcolor": "#4a148c"
+    },
+    {
+      "id": 12,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        340.66291520704095
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#545130",
+      "bgcolor": "#403d1c"
+    },
+    {
+      "id": 16,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        460.6629152070407
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#d24b22",
+      "bgcolor": "#be370e"
+    },
+    {
+      "id": 11,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1342.8730725970347,
+        340.66291520704095
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#477d32",
+      "bgcolor": "#33691e"
+    },
+    {
+      "id": 20,
+      "type": "PrimitiveNode",
+      "pos": [
+        -462.87307259703334,
+        460.6629152070407
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#716fcc",
+      "bgcolor": "#5d5bb8"
+    },
+    {
+      "id": 27,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1122.8730725970343,
+        700.6629152070411
+      ],
+      "size": {
+        "0": 203.1999969482422,
+        "1": 60
+      },
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "connect to widget input",
+          "type": "*",
+          "links": null,
+          "label": "connect to widget input"
+        }
+      ],
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "color": "#697c86",
+      "bgcolor": "#556872"
+    }
+  ],
+  "links": [],
+  "groups": [
+    {
+      "title": "ComfyUI-ColorPalettes",
+      "bounding": [
+        -1353,
+        26,
+        1100,
+        864
+      ],
+      "color": "#556872",
+      "font_size": 24,
+      "locked": false
+    }
+  ],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}
