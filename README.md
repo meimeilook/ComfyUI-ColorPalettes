@@ -38,6 +38,8 @@ Download ComfyUI-ColorPalettes.json or ComfyUI-ColorPalettes.png
 Figma file
 [>>>Download Here](https://www.figma.com/community/file/1346736809617182452)
 
+![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/FigmaFile.jpg)
+
 
 ## Credit:
 [Google Material Design](https://m2.material.io/design/color/the-color-system.html) make this color system
