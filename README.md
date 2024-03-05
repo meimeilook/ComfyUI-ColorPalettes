@@ -1,10 +1,10 @@
 # Make it easier to change node colors in ComfyUI
 This is not a ComfyUI extension, just pretty color which I like and I want to share with you.
-![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/assets/preview.jpg)
+![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/Thumbnail_1200.jpg)
 
 ## Info:
 Base on Material Design Colors,FlatUI colors, I made it fit with nodes,create some Low Saturation colors.
-
+![image](https://github.com/meimeilook/ComfyUI-ColorPalettes/blob/main/assets/preview.jpg)
 ## Download:
 ComfyUI-ColorPalettes.json<br>
 or<br>
